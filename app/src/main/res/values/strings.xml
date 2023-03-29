@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aston-dev-3-1</string>
+    <string name="at_text">Австрия</string>
+    <string name="content_description_flag">Флаг</string>
+    <string name="pl_text">Польша</string>
+    <string name="it_text">Италия</string>
+    <string name="co_text">Колумбия</string>
+    <string name="mg_text">Мадагаскар</string>
+    <string name="th_text">Таиланд</string>
+    <string name="dk_text">Дания</string>
+    <string name="ch_text">Швейцария</string>
+</resources>
